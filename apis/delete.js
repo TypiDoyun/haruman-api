@@ -5,6 +5,6 @@
  * @param {import("express").NextFunction} next 
  */
 
-export const deleteAPI = (req, res, next) => {
+export const deleteAPI = async (req, res, next) => {
     
 }

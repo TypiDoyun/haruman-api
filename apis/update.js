@@ -5,6 +5,6 @@
  * @param {import("express").NextFunction} next 
  */
 
-export const updateAPI = (req, res, next) => {
+export const updateAPI = async (req, res, next) => {
     
 }
